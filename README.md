@@ -9,4 +9,6 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
+## CONECTE-SE COMIGO
+[![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/users/hugofelipesr)
 ---
